@@ -1,4 +1,4 @@
-# Hi, I'm Veer 👋
+# Hi, I'm Sandeep 👋
 
 Self-taught research engineer exploring fusion physics, medical AI, and propulsion systems. Driven by AI-augmented curiosity over traditional credentials. Experimenting with simulations, automation, and creative tech.
 
